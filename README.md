@@ -1,7 +1,6 @@
-## Hi there. I am Kyoto.
-I do Data Science stuff (Engineering, Analyzis and ML Engineering)
-
-_Currently interning as a Data Engineer_
+## Hi there. I am Kyoto. 
+### 🚀 Data Engineering Intern
+I do Data Science stuff (Engineering, Analysis and ML Engineering)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=In-Kyoto&theme=vision-friendly-dark)
 <!--
