@@ -1,6 +1,8 @@
 ## Hi there. I am Kyoto.
 I do Data Science stuff (Engineering, Analyzis and ML Engineering)
 
+_Currently interning as a Data Engineer_
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=In-Kyoto&theme=vision-friendly-dark)
 <!--
 **In-Kyoto/In-Kyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
