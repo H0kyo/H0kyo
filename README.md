@@ -1,7 +1,7 @@
 ## Hi there. I am Kyoto.
 I do Data Science stuff (Engineering, Analyzis and ML Engineering)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=In-Kyoto&layout=compact&theme=vision-friendly-dark)](https://github.com/In-Kyoto/RAG-System)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=In-Kyoto&layout=compact&theme=vision-friendly-dark&hide=html,css,javascript&langs_count=5)
 <!--
 **In-Kyoto/In-Kyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
