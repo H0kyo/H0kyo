@@ -1,7 +1,7 @@
 ## Hi there. I am Kyoto.
 I do Data Science stuff (Engineering, Analyzis and ML Engineering)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=InKyoto)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=In-Kyoto&theme=algolia&show_icons=true)](https://github.com/In-Kyoto)
 <!--
 **In-Kyoto/In-Kyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
