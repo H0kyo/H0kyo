@@ -3,6 +3,7 @@
 I do Data Science stuff (Engineering, Analysis and ML Engineering)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=In-Kyoto&theme=vision-friendly-dark)
+![Metrics](github-metrics.svg)
 <!--
 **In-Kyoto/In-Kyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
