@@ -1,7 +1,7 @@
 ## Hi there. I am Kyoto.
 I do Data Science stuff (Engineering, Analyzis and ML Engineering)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=In-Kyoto)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **In-Kyoto/In-Kyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
