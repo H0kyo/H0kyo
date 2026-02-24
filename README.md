@@ -1,4 +1,4 @@
-## Hi there. I am Kyoto. 
+## Hi there. I am Oleksandr. 
 ### 🚀 Data Engineering Intern
 I do Data Science stuff (Engineering, Analysis and ML Engineering)
 
