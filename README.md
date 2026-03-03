@@ -2,7 +2,7 @@
 ### 🚀 Data Engineering Intern
 I do Data Science stuff (Engineering, Analysis and ML Engineering)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=In-Kyoto&theme=vision-friendly-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=H0kyo&theme=vision-friendly-dark)
 <!--
 **In-Kyoto/In-Kyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
